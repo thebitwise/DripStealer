@@ -113,7 +113,7 @@ menu.my_root():action('Manual save', {'savealloutfits'}, 'Initiates a manual sav
 end)
 
 menu.my_root():action('Wardrobe shortcut', {}, '', function()
-    menu.trigger_commnands('wardrobe')
+    menu.trigger_commands('wardrobe')
 end)
 
 
