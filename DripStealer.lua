@@ -205,5 +205,4 @@ end)
 
 players.dispatch_on_join()
 
-menu.my_root():divider('')
 menu.my_root():hyperlink('Join Discord', 'https://discord.gg/zZ2eEjj88v', '')
